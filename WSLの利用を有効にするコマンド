@@ -1,0 +1,5 @@
+WSLの利用を有効にするコマンドです。
+
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+PowerShellの画面に貼り付けEnter。
